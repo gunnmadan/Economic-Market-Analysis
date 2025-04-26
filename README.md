@@ -10,11 +10,13 @@ We compared three models:
 
 Technical indicators like RSI, MACD, and OBV were engineered from the data to improve prediction accuracy. We focused on creating a system that's data-driven, scalable, and reproducible.
 
-https://scikit-learn.org/stable/user_guide.html 
-https://pandas.pydata.org/docs/ 
-https://numpy.org/doc/stable/ 
-https://xgboost.readthedocs.io/ 
-This blog post from NVIDIA was a huge help:
+Developer Docs:
+* https://scikit-learn.org/stable/user_guide.html 
+* https://pandas.pydata.org/docs/ 
+* https://numpy.org/doc/stable/ 
+* https://xgboost.readthedocs.io/
+
+This blog post from NVIDIA on LSTMs was a huge help:
 https://developer.nvidia.com/discover/lstm#:~:text=A%20Long%20short%2Dterm%20memory,cycles%20through%20the%20feedback%20loops
 
 ---
