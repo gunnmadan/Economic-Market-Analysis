@@ -57,14 +57,18 @@ Our University professors require we explain our sourcing, implimentation, and c
 * https://github.com/gunnmadan/Machine-Learning/tree/main/outputs
 * https://github.com/gunnmadan/Machine-Learning/tree/main/scripts
 
-My parnter, G. Madan wrote our scripts based on mathemetical models from [Professor Brian Pidgeon](https://sites.google.com/site/brianpidgeonmath9116/about-me)'s MATH3020 class.   
-I focused on data gathering, documentation, script efficiency, implimentation, presentation, and communication, using the references provided previously in the [README](https://github.com/gunnmadan/Machine-Learning/).  
+My parnter, G. Madan wrote our Python scripts, from scratch, based on economic instruction from [Goncalo Monteiro](https://aysps.gsu.edu/profile/goncalo-monteiro/)'s [ECON3900](https://gsgmonteiro.weebly.com/) class in her sophomore year. 
+His models were [easy to understand](https://www.ratemyprofessors.com/professor/2621059). 
+
+Spring of my sophomore year, I learned [R](https://www.r-project.org/about.html) in [Professor Brian Pidgeon](https://sites.google.com/site/brianpidgeonmath9116/about-me)'s MATH3020 class.   
+For this project, I focused on data gathering, documentation, script efficiency, implimentation, presentation, and communication, using the references provided previously in the [README](https://github.com/gunnmadan/Machine-Learning/).  
 [Dr. Pidgeon](https://www.ratemyprofessors.com/professor/2379588)'s MATH 3020 class was integral to my personal understanding of statistics and machine learning systems.   
 
-[Dr. Akbas](https://sites.google.com/view/esraakbas)'s exams and virtual presentations prepared us for the difficult programming challenges ahead.  
-The funding of the department was provided by an [NSF Career](https://csds.gsu.edu/2024/08/24/akbas-receives-nsf-career-award/) award.    
+[Dr. Akbas](https://sites.google.com/view/esraakbas)'s exams and virtual presentations prepared us for the difficult programming challenges in this class.  
+The funding of the department was provided by an [NSF Career](https://csds.gsu.edu/2024/08/24/akbas-receives-nsf-career-award/) award.  
+
 By using Python's Matplotlib library, we were able to locally compute large amounts of data in a relatively small amount of time.   
-We want to thank the [GSU CATLAB](https://technology.gsu.edu/technology-services/technology-labs-printing/catlab/) for providing equal opportunities to students without hardware.  
+We want to thank the [GSU CATLAB](https://technology.gsu.edu/technology-services/technology-labs-printing/catlab/) for providing equal opportunities to students without adequate hardware.  
 
 ## 💼Implimentation
 Providing a step-by-step guide to our project would require a full-length presentation longer than the 15-20 minutes we were given.  
