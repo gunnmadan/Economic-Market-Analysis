@@ -57,8 +57,8 @@ Our University professors require we explain our sourcing, implimentation, and c
 * https://github.com/gunnmadan/Machine-Learning/tree/main/outputs
 * https://github.com/gunnmadan/Machine-Learning/tree/main/scripts
 
-My parnter, G. Madan wrote our Python scripts, from scratch, based on economic instruction from [Goncalo Monteiro](https://aysps.gsu.edu/profile/goncalo-monteiro/)'s [ECON3900](https://gsgmonteiro.weebly.com/) class in her sophomore year. 
-His models were [easy to understand](https://www.ratemyprofessors.com/professor/2621059). 
+My partner, G. Madan wrote our Python scripts, from scratch, based on economic instruction from [Goncalo Monteiro](https://aysps.gsu.edu/profile/goncalo-monteiro/)'s [ECON3900](https://gsgmonteiro.weebly.com/) class in her sophomore year. 
+His models were [extrelemy difficult to understand, but integral to our explanations](https://www.ratemyprofessors.com/professor/2621059). 
 
 Spring of my sophomore year, I learned [R](https://www.r-project.org/about.html) in [Professor Brian Pidgeon](https://sites.google.com/site/brianpidgeonmath9116/about-me)'s MATH3020 class.   
 For this project, I focused on data gathering, documentation, script efficiency, implimentation, presentation, and communication, using the references provided previously in the [README](https://github.com/gunnmadan/Machine-Learning/).  
