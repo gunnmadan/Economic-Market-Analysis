@@ -7,7 +7,7 @@ files = ['BTC_USD.csv', "EUR_USD.csv", 'SPY.csv']
 for file in files:
     symbol = file.replace(".csv", '')
     print(f"Processing: {symbol}")
-    df = pd.read_csv(f'data/{file}', parse_dates = ['Price'])
+    df = pd.read_csv(f'data/{file}')
     df.set_index("Price", inplace=True)
 
     cols_to_numeric = ['Open', "High", 'Low', "Close", "Volume"]
